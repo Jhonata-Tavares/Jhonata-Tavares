@@ -8,7 +8,7 @@ Desenvolvedor Back-End focado em Node.js | Apaixonado por código limpo e soluç
 
 ### 🚀 Sobre mim
 
-- 💻 Atuo como **freelancer** desenvolvendo soluções com **Node.js**
+- 💻 Em busca de oportunidades para desenvolver soluções com **Node.js**
 - 🔧 Conhecimento prático em **API REST**, **Express**, **MongoDB**, **MySQL**
 - 📈 Sempre buscando aprender mais sobre boas práticas, testes e arquitetura
 - 🧠 Interesso-me por sistemas distribuídos e escaláveis
