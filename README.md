@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Jhônata 👋
 
-<!--
-**Jhonata-Tavares/Jhonata-Tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Back-End focado em Node.js  
+🚀 Apaixonado por tecnologia, performance e código limpo  
+📚 Estudando Ciência da Computação na Gran Faculdade  
+💼 Em busca de oportunidades como Dev Back-End
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Node.js, Express
+- MongoDB, MySQL
+- Git, GitHub
+- JavaScript, TypeScript
+- C#, .NET, Python (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/seulink) | [E-mail](mailto:seu@email.com)
